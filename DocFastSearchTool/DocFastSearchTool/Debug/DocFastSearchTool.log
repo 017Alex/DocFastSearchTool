@@ -1,4 +1,5 @@
 ﻿  DocFastSearchTool.cpp
   Susutil.cpp
   正在生成代码...
+sqlite3.lib(sqlite3.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“sqlite3.lib(sqlite3.obj)”或在“C:\Users\10762\Desktop\DocFastSearchTool\DocFastSearchTool\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
   DocFastSearchTool.vcxproj -> C:\Users\10762\Desktop\DocFastSearchTool\DocFastSearchTool\Debug\DocFastSearchTool.exe
