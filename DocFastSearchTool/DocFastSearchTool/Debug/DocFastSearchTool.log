@@ -1,5 +1,2 @@
-﻿  DocFastSearchTool.cpp
-  Susutil.cpp
-  正在生成代码...
-sqlite3.lib(sqlite3.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“sqlite3.lib(sqlite3.obj)”或在“C:\Users\10762\Desktop\DocFastSearchTool\DocFastSearchTool\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
-  DocFastSearchTool.vcxproj -> C:\Users\10762\Desktop\DocFastSearchTool\DocFastSearchTool\Debug\DocFastSearchTool.exe
+﻿DataManager.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall SqliteManager::Close(void)" (?Close@SqliteManager@@QAEXXZ)，函数 "public: __thiscall SqliteManager::~SqliteManager(void)" (??1SqliteManager@@QAE@XZ) 中引用了该符号
+C:\Users\10762\Desktop\DocFastSearchTool\DocFastSearchTool\Debug\DocFastSearchTool.exe : fatal error LNK1120: 1 个无法解析的外部命令
